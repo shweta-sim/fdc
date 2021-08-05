@@ -1,0 +1,27 @@
+/* Erbjudanden CSS */
+
+ol.erbjudanden {
+    color: #ccc;
+    list-style-type: none;
+}
+
+ol.erbjudanden li {
+    position: relative;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+ol.erbjudanden li p {
+    padding-left: 60px;
+    color: #555;
+    font-size: 18px;
+}
+
+ol.erbjudanden span.number {
+    font-size: 26px;
+    position: absolute;
+}
+
+ol.erbjudanden span.price {
+    color: #00a2e5;
+}
