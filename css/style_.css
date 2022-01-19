@@ -797,7 +797,7 @@ header .navbar .dropdown-menu .dropdown-item:hover {
     position: relative;
     display: flex;
     align-items: center;
-    height: 500px;
+    height: 800px;
     padding: 90px;
 }
 
@@ -918,57 +918,17 @@ header .navbar .dropdown-menu .dropdown-item:hover {
 .klinik.degerfors .img {
 	background: url("../imgs/img-klinik-degerfors.jpg");
 }*/
-.overflowEllipsis{
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-#accordion,
-#accordion2,
-#accordion3{
-    width: 100%;
-}
-#headingOne,
-#headingTwo,
-#headingThree{
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-#headingOne i,
-#headingTwo i,
-#headingThree i{
-    font-size:24px;
-    transition: .3s ease;
-}
-.r180{
-    transform: rotate(180deg);
-    transition: .3s ease;
-}
-.collapse{
-    display: flex;
-    flex-direction: column;
-}
-.display-flex{
-    display: flex;
-    padding-top: 20px;
-}
-.priser-flex{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+
 @media screen and (max-width: 1680px) {
     .locations .klinik {
-        height: 450px;
+        height: 700px;
         padding: 60px;
     }
 }
 
 @media screen and (max-width: 1199.98px) {
     .locations .klinik {
-        height: 400px;
+        height: 600px;
         padding: 30px;
     }
 }
@@ -978,12 +938,8 @@ header .navbar .dropdown-menu .dropdown-item:hover {
         height: 200px;
         padding: 0;
         background-size: auto !important;
-        border-bottom: 1px solid #f0f0f0 !important;
-        justify-content: center;
     }
-    .location-text{
-        min-width: 320px;
-    }
+    .locations .klinik .location-text,
     .locations .klinik .location-text .arrow {
         display: none;
     }
@@ -1430,17 +1386,16 @@ header .navbar .dropdown-menu .dropdown-item:hover {
 
 .personal {
     padding: 0 !important;
-    background: url('../imgs/bg-personal2.png') top right no-repeat, url('../imgs/bg-welcome.png') 0 100% no-repeat;
-    background-size: auto auto;
+    background: url('../imgs/bg-welcome.png') 0 100% no-repeat;
 }
 
 .personal .container {
     padding-top: 480px !important;
     padding-bottom: 120px !important;
-    /* background-image: url('../imgs/bg-personal2.png') !important; */
-    /* background-position: 120px 120px; */
-    /* background-size: auto auto; */
-    /* background-repeat: no-repeat; */
+    background-image: url('../imgs/bg-personal2.png') !important;
+    background-position: 120px 120px;
+    background-size: auto auto;
+    background-repeat: no-repeat;
 }
 
 .personal-swiper {
@@ -1502,7 +1457,7 @@ header .navbar .dropdown-menu .dropdown-item:hover {
 
 .testimonials {
     margin: 0 !important;
-    padding: 250px 0 120px !important;
+    padding: 15px 0 !important;
 }
 
 .wmg-container {

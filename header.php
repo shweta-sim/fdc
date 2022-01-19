@@ -9,7 +9,6 @@
           </ul>
           <ul class="ml-auto">
             <li><a href="https://www.facebook.com/familydentalcareswe/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-            <li><a href="https://twitter.com/familydentalc" target="_blank"><i class="fab fa-twitter"></i></a></li>
             <li><a href="https://www.instagram.com/familidentalcare/" target="_blank"><i class="fab fa-instagram"></i></a></li>
           </ul>
         </div>
@@ -48,17 +47,20 @@
               <a class="dropdown-item" href="kronorochbroar.php">Kronor och broar</a>
               <a class="dropdown-item" href="tandimplantat.php">Tandimplantat</a>
               <a class="dropdown-item" href="tandhygienist.php">Tandhygienist</a>
+              <a class="dropdown-item" href="blekning.php">Blekning</a>
+              <a class="dropdown-item" href="air-flow.php">Air Flow</a>
               <a class="dropdown-item" href="rotbehandling.php">Rotbehandling</a>
-              <a class="dropdown-item" href="invisalign.php">Invisalign</a>
-              <a class="dropdown-item" href="fillers.php">Fillers</a>
+              <a class="dropdown-item" href="osynlig-tandställning.php">Osynlig tandställning</a>
+              <a class="dropdown-item" href="fillers.php">Fillers och rynkbehandling</a>
             </div>
           </li>
           <li class="nav-item"><a class="nav-link" href="erbjudanden.php">Erbjudanden</a></li>
-          <li class="nav-item"><a class="nav-link" href="personal.php">Personal</a></li>
+          <li class="nav-item"><a class="nav-link" href="personal.php">Medarbetare</a></li>
           <li class="nav-item"><a class="nav-link" href="bilder.php">Bilder</a></li>
           <li class="nav-item"><a class="nav-link" href="priser.php">Priser</a></li>
 
-          <li class="nav-item"><a class="nav-link" href="http://jobs.familydental.se/" target="_blank">Jobba hos oss</a></li>
+          <li class="nav-item"><a class="nav-link" href="http://jobs.familydental.se/" target="_blank">Karriär</a></li>
+          <li class="nav-item"><a class="nav-link" href="skicka-remiss.php">Skicka remiss</a></li>
 
         </ul>
       </div>

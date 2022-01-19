@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=yes"/>
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Family Dental Care | Rotbehandling</title>
+        <title>Family Dental Care | Invisalign</title>
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="imgs/favicon.png" type="image/png">
@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Rotbehandling<span>Rotbehandling</span></h1>
+                        <h1>Osynlig tandställning<span>Osynlig tandställning</span></h1>
                     </div>
                 </div>
             </div>
@@ -95,17 +95,17 @@
                                         </li>
                                     </a>
                                     <a href="rotbehandling.php">
-                                        <li class="left-link-active">Rotbehandling 
+                                        <li>Rotbehandling 
                                             <span>
-                                                <img src="imgs/behandlingar/icon_rotbehandling_white.png" alt="">
+                                                <img src="imgs/behandlingar/icon_rotbehandling.png" class="link-icon-show" alt="">
+                                                <img src="imgs/behandlingar/icon_rotbehandling_white.png" class="link-icon-hidden" alt="">
                                             </span>
                                         </li>
                                     </a>
                                     <a href="osynlig-tandställning.php">
-                                        <li>Osynlig tandställning 
+                                        <li class="left-link-active">Osynlig tandställning 
                                             <span>
-                                                <img src="imgs/behandlingar/icon_invisalign.png" class="link-icon-show" alt="">
-                                                <img src="imgs/behandlingar/icon_invisalign_white.png" class="link-icon-hidden" alt="">
+                                                <img src="imgs/behandlingar/icon_invisalign_white.png" alt="">
                                             </span>
                                         </li>
                                     </a>
@@ -127,24 +127,39 @@
                             </div>
                         </div>
                         <div class="col-md-6 offset-md-1 col-lg-6 offset-lg-1 col-xl-7 offset-xl-1 order-lg-last mb6-md">
-                            <p class="mb6">I tandens mitt finner man pulpan, tandens nerv. Denna nerv sträcker sig ned genom tandens rötter och ut i käkbenet. Om en tand utav någon anledning dött ut eller om karies nått sig in till pulpan och orsakat inflammation eller infektion behöver nerven tas bort och tanden rotfyllas.
-                                Detta för att man ska kunna behålla tanden utan att infektionen sprider sig vidare.</p>
-                            <div class="mb6 rotbehandling-video content-video">                                
-                                <img src="imgs/behandlingar/icon-youtube.png" onclick="lightboxSecond_open();" alt=""/>
-                            </div>
-                            <h5 class="text-blue mb1">Hur går behandlingen till?</h5>
-                            <p class="mb3">En rotbehandling brukar oftast vara cirka 2timmar. Man börjar med att rengöra tandkronan genom att borra bort den infekterade tandsubstansen. Sedan öppnar man upp tanden för att rengöra rotkanalerna med smala filar och spola rent med bakteriedödande vätska.</p>
-                            <p class="mb3">Tandläkaren har kontroll med hjälp av att ta nya röntgenbilder under behandlingens gång för att vara säker påatt hela rotkanalen blir ren och fri från bakterier.</p>
-                            <p class="mb6">När rengöringen är klar fylls rotkanalen med speciella gummispetsar och rotfyllningscement.</p>
-                            <h5 class="text-blue mb1">Hur mår man efteråt?</h5>
-                            <p class="mb6">Det är vanligt med övergående smärta efter behandlingen men det brukar oftast räcka med vanliga värktabletter för att lindra smärtan. Hjälper inte de vanliga värktabletterna får man kontakta sin tandläkare.</p>
-                            <h5 class="text-blue mb1">Vad är nästa steg?</h5>
-                            <p class="mb6 behand">Efter en rotfyllning måste man reparera den tandsubstans som förvunnit när nerven togs bort. Det finns olika alternativ för detta som diskuteras med din tandläkare. Vanligtvis rekommenderar vi att man sätter dit en porslinskrona med en pelare för att stärka tanden. <a href="kronorochbroar.php">Du kan läsa mer om porslinskronor och broar här.</a></p>
+                          
+                            <h5 class="text-blue mb1">VAD ÄR SPARK?</h5>
+                            <p class="mb3">Spark är en näst intill osynlig tandställning i form av plastskenor.</p>
+                            <p class="mb6">Skenorna reglerar dina tänder till det perfekta leendet du alltid önskat.</p>
+
+                            <h5 class="text-blue mb1">VARFÖR SPARK?</h5>
+                            <p class="mb3"><strong>1. Klarare</strong> Nästan osynlig tillskillnad från de andra märkena för tandreglering.</p>
+                            <p class="mb3"><strong>2. Bekvämare</strong> Mjukare kanter gör den bekvämare.</p>
+                            <p class="mb3"><strong>3. Fläckar mindre</strong> Spark aligners fläckar mindre vilket gör att skenan håller sig fräsch längre.</p>
+                            <p class="mb3"><strong>4. Designad för snabbare behandling.</strong> Sparks TruGEN ™ är utformad för effektivare tandrörelse.</p>
+                            <p class="mb3"><strong>5. Hjälper till att förbättra munhälsan.</strong> Spark Aligners hjälper till att förbättra munhälsan jämförd med standard tandregleringsmetoder genom att bevara tandköttets hälsa.</p>
+                            <p class="mb6"><strong>6. BPA -fri.</strong> Spark Aligners är fria från BPA, kvicksilver, latex och ftalatfri.</p>
+
+                            <h5 class="text-blue mb1">VARFÖR OSS?</h5>
+                            <p class="mb3">Vi har jobbat med tandreglerings behandlingar i många år och är bland de första klinikerna i Sverige som erbjuder Spark clear aligners behandling, utförd av erfarna estetiska tandläkare.</p>
+                            <p class="mb6">Vår största tillgång är att vi lyssnar på dig, tar vår tid och planerar din behandling tillsammans med dig. Vi påbörjar inte behandlingen förrän du har sett och bekräftat att du är helt nöjd med det slutliga resultatet.</p>
+
+                            <h5 class="text-blue mb1">BOKA EN KONSULTATION:</h5>
+                            <p class="mb3">Konsultation hos oss kostar 500kr som vi sedan drar av på din totala behandlingskostnad.  Vi diskuterar dina behov och förklara hur vi kan hjälpa till med att nå dina önskemål angående ditt leende och din munhälsa.</p>
+                            <p class="mb3">Din investering för ditt nya leende börjar från 35 000kr för en käke och från 50 000 kr för båda käken. Din exakta investering får du reda på när vi har utfört en detaljerad undersökning av ditt ansikte och bett samt förstått dina önskemål med behandlingen.</p>
+                            <p class="mb6">Vi strävar efter att ge dig information om din investering vid samma tillfälle som innefattar alla smådetaljer som krävs på vägen till ditt vackra och hälsosamt leende.</p>
+
+                            <h5 class="text-blue mb1">FINJUSTERINGAR:</h5>
+                            <p class="mb3">Under behandlingsgången diskuterar vi hur allt känns och om det eventuellt skulle behöva göras några justeringar på vägen till det perfekta leendet.</p>
+                            <p class="mb3 behand">Vill ni läsa mer om spark kan ni gå in på deras sida <a href="https://sparkaligners.com/spark-difference/" target="_blank">www.sparkaligners.com/spark-difference</a></p>
+                            <p class="mb3"><strong>Välkomna in!</strong></p>
+
+
                         </div>
                     </div>
                 </div>
             </section>  
-
+           
             <!--Video-->
             <section class="testimonial-video">
                 <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
@@ -185,7 +200,7 @@
         </div>
         <div id="lightSecond">
             <a class="boxclose" id="boxSecondClose" onclick="lightbox_close();">Close | X</a>
-           <iframe width="800" height="400" src="https://www.youtube.com/embed/AATnG9BdIMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="800" height="560" src="https://www.youtube.com/embed/3qYcpkWzJGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div id="fade" onClick="lightbox_close();"></div>        
         <!-- Video Popup Box ends-->

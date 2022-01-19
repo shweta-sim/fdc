@@ -86,36 +86,42 @@
                         <div class="personal-swiper shadow">
                             <div class="swiper-container swiper-personal">
                                 <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img-markus.jpg" class="img-fluid shadow"></div>
-                                        <h4>Markus</h4>
-                                        <h6>Tandhygienist</h6>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img-rebecca.jpg" class="img-fluid shadow"></div>
-                                        <h4>Rebecca</h4>
-                                        <h6>Tandsköterska</h6>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img-alex.jpg" class="img-fluid shadow"></div>
-                                        <h4>Alex</h4>
-                                        <h6>Leg. Tandläkare, Klinikchef</h6>
-                                    </div>
+                                <!-- <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-angelica.jpg" class="img-fluid shadow"></div>
+                                        <h4>Angelica</h4>
+                                        <h6>Leg. Tandläkare</h6>
+                                    </div> -->
+                                    
                                     <div class="swiper-slide">
                                         <div class="img mb3"><img src="imgs/img-ada.jpg" class="img-fluid shadow"></div>
                                         <h4>Ada</h4>
                                         <h6>Leg. Tandläkare</h6>
                                     </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-alex.jpg" class="img-fluid shadow"></div>
+                                        <h4>Alex</h4>
+                                        <h6>Leg. Tandläkare, Klinikchef</h6>
+                                    </div>
+                                    
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-markus.jpg" class="img-fluid shadow"></div>
+                                        <h4>Markus</h4>
+                                        <h6>Leg.Tandhygienist</h6>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-erna.jpg" class="img-fluid shadow"></div>
+                                        <h4>Erna</h4>
+                                        <h6>Tandsköterska</h6>
+                                    </div>
+
                                     <div class="swiper-slide">
                                         <div class="img mb3"><img src="imgs/img-lumin.jpg" class="img-fluid shadow"></div>
                                         <h4>Lumin</h4>
                                         <h6>Tandsköterska</h6>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img_natali.png" class="img-fluid shadow"></div>
-                                        <h4>Natali</h4>
-                                        <h6>Tandsköterska</h6>
-                                    </div>
+                      
                                 </div>
                             </div>
                         </div>

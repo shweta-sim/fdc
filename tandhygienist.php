@@ -75,6 +75,24 @@
                                             </span>
                                         </li>
                                     </a>
+
+                                    <a href="blekning.php">
+                                        <li>Blekning 
+                                            <span>
+                                                <img src="imgs/behandlingar/icon_blekning.png" class="link-icon-show" alt="">
+                                                <img src="imgs/behandlingar/icon_blekning_white.png" class="link-icon-hidden" alt="">
+                                            </span>
+                                        </li>
+                                    </a>
+
+                                    <a href="air-flow.php">
+                                        <li>Air Flow 
+                                            <span>
+                                                <img src="imgs/behandlingar/icon_air-flow.png" class="link-icon-show" alt="">
+                                                <img src="imgs/behandlingar/icon_air-flow_white.png" class="link-icon-hidden" alt="">
+                                            </span>
+                                        </li>
+                                    </a>
                                     <a href="rotbehandling.php">
                                         <li>Rotbehandling 
                                             <span>
@@ -83,8 +101,8 @@
                                             </span>
                                         </li>
                                     </a>
-                                    <a href="invisalign.php">
-                                        <li>Invisalign 
+                                    <a href="osynlig-tandställning.php">
+                                        <li>Osynlig tandställning 
                                             <span>
                                                 <img src="imgs/behandlingar/icon_invisalign.png" class="link-icon-show" alt="">
                                                 <img src="imgs/behandlingar/icon_invisalign_white.png" class="link-icon-hidden" alt="">
@@ -102,7 +120,7 @@
                                 </ul>
                             </div>
                             <div class="booking shadow mb6">
-                                <h5 class="text-bold mb2">Skicka en Bokningsförfrågan</h5>
+                                <h5 class="text-bold mb2">Har du några frågor? Fråga oss!</h5>
                                 <?php
                                     include "form.php"
                                 ?>
@@ -118,27 +136,7 @@
                     </div>
                 </div>
             </section>  
-            <!-- Before After start -->
-            <section class="bg-light-gradeint">
-                <div class="container">                   
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="tandimplantat ba-slider">
-                                <img src="imgs/behandlingar/tandimplantat-after.jpg" alt="">
-                                <div class="resize"> <img src="imgs/behandlingar/tandimplantat-before.png" alt=""> </div>
-                                <span class="handle"></span>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="slider-bottom-text">
-                                    <p>Före- och efterbild tagen på patient från Family Dental Care Kungsholmen.</p>
-                                    <p>Luckor på båda sidor ersätts med implantat.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Before After ends --> 
+
             <!--Video-->
             <section class="testimonial-video">
                 <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">

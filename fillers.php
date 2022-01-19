@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=yes"/>
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Family Dental Care | Fillers</title>
+        <title>Family Dental Care | Fillers och rynkbehandling</title>
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="imgs/favicon.png" type="image/png">
@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Fillers<span>Fillers</span></h1>
+                        <h1>Fillers och rynkbehandling<span>Fillers och rynkbehandling</span></h1>
                     </div>
                 </div>
             </div>
@@ -76,6 +76,25 @@
                                             </span>
                                         </li>
                                     </a>
+
+                                    <a href="blekning.php">
+                                        <li>Blekning 
+                                            <span>
+                                                <img src="imgs/behandlingar/icon_blekning.png" class="link-icon-show" alt="">
+                                                <img src="imgs/behandlingar/icon_blekning_white.png" class="link-icon-hidden" alt="">
+                                            </span>
+                                        </li>
+                                    </a>
+
+                                    <a href="air-flow.php">
+                                        <li>Air Flow 
+                                            <span>
+                                                <img src="imgs/behandlingar/icon_air-flow.png" class="link-icon-show" alt="">
+                                                <img src="imgs/behandlingar/icon_air-flow_white.png" class="link-icon-hidden" alt="">
+                                            </span>
+                                        </li>
+                                    </a>
+
                                     <a href="rotbehandling.php">
                                         <li>Rotbehandling 
                                             <span>
@@ -84,8 +103,8 @@
                                             </span>
                                         </li>
                                     </a>
-                                    <a href="invisalign.php">
-                                        <li>Invisalign 
+                                    <a href="osynlig-tandställning.php">
+                                        <li>Osynlig tandställning 
                                             <span>
                                                 <img src="imgs/behandlingar/icon_invisalign.png" class="link-icon-show" alt="">
                                                 <img src="imgs/behandlingar/icon_invisalign_white.png" class="link-icon-hidden" alt="">
@@ -93,7 +112,7 @@
                                         </li>
                                     </a>
                                     <a href="fillers.php">
-                                        <li class="left-link-active">Fillers 
+                                        <li class="left-link-active">Fillers
                                             <span>
                                                 <img src="imgs/behandlingar/icon_fillers_white.png" alt="">
                                             </span>
@@ -102,7 +121,7 @@
                                 </ul>
                             </div>
                             <div class="booking shadow mb6">
-                                <h5 class="text-bold mb2">Skicka en Bokningsförfrågan</h5>
+                                <h5 class="text-bold mb2">Har du några frågor? Fråga oss!</h5>
                                 <?php
                                     include "form.php";
                                 ?>
@@ -110,47 +129,38 @@
                         </div>
                         <div class="col-md-6 offset-md-1 col-lg-6 offset-lg-1 col-xl-7 offset-xl-1 order-lg-last mb6-md">
 
-                            <p class="mb6 text-bold">I ansikte och halsområde är musklerna i ständig rörelse, vilket med tiden leder till att rynkor uppstår. Dessa rynkor är till en början dynamiska, det vill säga, syns bara när muskeln arbetar. Tillslut kan rynkorna bli permanenta, då syns de även när muskeln är avslappnad. Dessa rynkor, både dynamiska och permanenta, kan elimineras med hjälp av Botulinum toxin A behandlingar och Fillers behandlingar.</p>  
+                            <p class="mb6 text-bold">I ansikte och halsområde är musklerna i ständig rörelse, vilket med tiden leder till att rynkor uppstår. Dessa rynkor är till en början dynamiska, det vill säga, syns bara när muskeln arbetar. Tillslut kan rynkorna bli permanenta, då syns de även när muskeln är avslappnad. Dessa rynkor, både dynamiska och permanenta, kan elimineras med hjälp av Botulinum toxin A och Fillers behandlingar.</p>  
                             <h5 class="text-blue mb1">Fillers</h5>
-                            <p class="mb3">Naturligt i åldrandet och tillsammans med gravitationen, förminskas den subkutana vävnaden under huden i ansiktet och skapar rynkor och veck. För att få bort dessa åldersförändringar används Hyaluronsyra för att ersätta vävnadsförlusten. Hyaluronsyra är en naturligt förekommande gel i kroppen, vilken injiceras på det önskade stället. Den vävnadsvänliga Hyaluronsyran benämns fillers och bryts sakta ned av kroppen. En fillerbehandling får effekt direkt och håller 6-18 månader beroende på område.</p>
+                            <p class="mb6">Naturligt i åldrandet och tillsammans med gravitationen, förminskas den kollagen vävnaden under huden i ansiktet och skapar rynkor och veck. För att få bort dessa åldersförändringar används Hyaluronsyra för att ersätta vävnadsförlusten. Hyaluronsyra är en naturligt förekommande gel i kroppen, vilken injiceras på det önskade stället. Den vävnadsvänliga Hyaluronsyran benämns fillers och bryts sakta ned av kroppen och ersätts med vatten. En fillerbehandling får effekt direkt och håller 6-18 månader beroende på område.</p>
+                            <h5 class="text-blue mb1">Områden</h5>
                             <p class="mb6">Läppformning <br>
-                                Nasiolabiala veck <br>
-                                Marionett linjer <br>
+                                Nasiolabiala veck, vid munnen <br>
+                                Marionett linjer, vid övreläppen <br>
                                 Kindvolym/definiera kinder <br>
                                 Ovansida händer (Föryngring) <br>
-                                2000kr/ml
+                                Jawline <br>
+                                Haka <br>
+                                Näsa <br>
+                                tear trough (under ögonen) <br><br>
+                                3500 kr/ml. <br>
+                                2500 kr/ml för varje extra ml. vid samma besök <br>
                             </p> 
                             <h5 class="text-blue mb1">Botulinumtoxin A</h5>
-                            <p class="mb3">Botulinomtoxin A, är ett muskelreducerande toxin som får muskeln att slappna av. När rynkorna i ansiktet är dynamiska, används detta för att reducera muskelns aktivitet och rynkan försvinner även när muskeln används. Behandlingarna kan göras för att reducera rynkor i panna, argrynkan mellan ögonen och rynkor på näsa med mera. En behandling visar effekt efter 2-4 dagar, får full effekt efter 10-14 dagar samt håller i cirka 3-4 månader.</p>
-                            <p class="mb6">1 område 1500kr<br>
-                                2 områden 2250kr<br>
-                                3 områden 2900kr
+                            <p class="mb6">Botulinomtoxin A, är ett muskelreducerande toxin som får muskeln att slappna av. När rynkorna i ansiktet är dynamiska, används detta för att reducera muskelns aktivitet och rynkan försvinner eller jämnas ut även när muskeln används. Behandlingarna kan göras för att reducera rynkor i panna, argrynkan mellan ögonen och rynkor runt ögonen samt på näsa med mera.</p>
+                            <h5 class="text-blue mb1">Behandling av Bruxism</h5>
+                            <p class="mb3">tand pressning och gnissling: Denna är en av de populäraste behandlingarna med Botulinumtoxin på vår klinik. Många patienter föredrar denna behandling framför bettskena (en tjock plastskena av hård plast mot tandgnissling och pressning på natten).</p>
+                            <p class="mb3">En behandling börjar att visa effekt efter 2–4 dagar, får full effekt efter 14 dagar samt håller i cirka 3-4 månader.</p>
+                            <p class="mb3">Studier visar att regelbunden Botulinumtoxin A behandling minskar behovet för framtida behov för behandling.</p>
+                            <p class="mb6">1 område 2500kr<br>
+                                2 områden 3000kr<br>
+                                3 områden 3500kr
                             </p>
+                            <a href="priser.php" class="btn">Se Våra Priser</a>
                         </div>
                     </div>
                 </div>
             </section>  
-            <!-- Before After start -->
-            <section class="bg-light-gradeint">
-                <div class="container">                   
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="tandimplantat ba-slider">
-                                <img src="imgs/behandlingar/tandimplantat-after.jpg" alt="">
-                                <div class="resize"> <img src="imgs/behandlingar/tandimplantat-before.png" alt=""> </div>
-                                <span class="handle"></span>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="slider-bottom-text">
-                                    <p>Före- och efterbild tagen på patient från Family Dental Care Kungsholmen.</p>
-                                    <p>Luckor på båda sidor ersätts med implantat.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Before After ends --> 
+        
             <!--Video-->
             <section class="testimonial-video">
                 <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">

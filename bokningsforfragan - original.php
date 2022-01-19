@@ -47,7 +47,7 @@
                         </div>-->
                     <!--<div class="col-md-12 offset-md-0 col-lg-6 offset-lg-1 col-xl-7 offset-xl-1 order-lg-last order-first mb6-md">-->
                     <div class="col-md-16 personal-description">
-                        <h5 class="text-blue mb2">Skicka en Bokningsförfrågan</h5>
+                        <h5 class="text-blue mb2">Har du några frågor? Fråga oss!</h5>
                         <div class="muntra-widget without-modal" key="6" muntra_clinic_id="1723" muntra_referral_source="familydental.se" muntra_without_modal="true"></div>
 
                         <!-- <form class="booking-form mb6"  onsubmit="return validateForm()" id="enquiryForm" 

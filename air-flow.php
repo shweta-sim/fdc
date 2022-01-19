@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=yes"/>
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Family Dental Care | Invisalign</title>
+        <title>Family Dental Care | Air Flow</title>
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="imgs/favicon.png" type="image/png">
@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Invisalign<span>Invisalign</span></h1>
+                        <h1>Air Flow<span>Air Flow</span></h1>
                     </div>
                 </div>
             </div>
@@ -76,6 +76,24 @@
                                             </span>
                                         </li>
                                     </a>
+
+                                    <a href="blekning.php">
+                                        <li>Blekning 
+                                            <span>
+                                                <img src="imgs/behandlingar/icon_blekning.png" class="link-icon-show" alt="">
+                                                <img src="imgs/behandlingar/icon_blekning_white.png" class="link-icon-hidden" alt="">
+                                            </span>
+                                        </li>
+                                    </a>
+
+                                    <a href="air-flow.php">
+                                        <li class="left-link-active">Air Flow 
+                                            <span>
+                                                <img src="imgs/behandlingar/icon_air-flow_white.png" alt="">
+                                            </span>
+                                        </li>
+                                    </a>
+
                                     <a href="rotbehandling.php">
                                         <li>Rotbehandling 
                                             <span>
@@ -84,10 +102,11 @@
                                             </span>
                                         </li>
                                     </a>
-                                    <a href="invisalign.php">
-                                        <li class="left-link-active">Invisalign 
+                                    <a href="osynlig-tandställning.php">
+                                        <li>Osynlig tandställning 
                                             <span>
-                                                <img src="imgs/behandlingar/icon_invisalign_white.png" alt="">
+                                                <img src="imgs/behandlingar/icon_invisalign.png" class="link-icon-show" alt="">
+                                                <img src="imgs/behandlingar/icon_invisalign_white.png" class="link-icon-hidden" alt="">
                                             </span>
                                         </li>
                                     </a>
@@ -102,50 +121,40 @@
                                 </ul>
                             </div>
                             <div class="booking shadow mb6">
-                                <h5 class="text-bold mb2">Skicka en Bokningsförfrågan</h5>
+                                <h5 class="text-bold mb2">Har du några frågor? Fråga oss!</h5>
                                 <?php
                                     include "form.php";
                                 ?>
                             </div>
                         </div>
                         <div class="col-md-6 offset-md-1 col-lg-6 offset-lg-1 col-xl-7 offset-xl-1 order-lg-last mb6-md">
-                            <p class="mb3">Invisalign har fångat USA med storm genom att erbjuda det perfekta leendet du alltid önskat minus obehaget av vanlig fast räls. Du slipper ha munnen full av metallfästen, vajrar, band och så vidare. Genom en serie av knappt synliga plastskenor så får du snabbt en möjlighet till raka fina tänder, oftast utan att behöva ta bort någon tand.</p>
-                            <p class="mb6">Vi importerar plastskenorna hela vägen från Santa Clara i Kalifornien och trots merkostnader pågrund av logistik såär det fortfarande billigare än andra traditionella tandregleringsbehandlingar för vuxna.</p>
-                            <h5 class="text-blue mb1">Designa ditt egna leende</h5>
-                            <p class="mb3">Patienterna älskar Invisalign, det är bokstavligen en dröm som blir sann: raka och fina tänder utan att behöva bli sedd med tågräls. Invisalign är inte bara trevligt att se, deras datoriserade behandlingsprogram och 3D modeller ligger ljusår framåt i tiden jämfört med traditionell tandreglering.</p>
-                            <p class="mb6">Du som patient har möjlighet att se ditt behandlingsförslag pådatorskärmen och därmed har du all möjlighet att påverka och designa ditt leende, göra förändringar och verkligen bestämma hur du vill se ut. Resultatet är en smidigare mer exakt och tillfredställande behandling jämfört med traditionell räls. Oftast går behandlingen betydligt snabbare också.</p>
-                            <h5 class="text-blue mb1">Kostnader?</h5>
-                            <p class="mb3">Första besöket hos oss är helt gratis och utan hållhakar såatt vi kan diskutera dina behov och förklara vad som faktiskt är möjligt. Vi har som mål att erbjuda alla ett vackert leende och därmed försöker vi hålla nere priserna såmycket som möjligt. En behandling hos oss kostar mellan 50 000 –70 000 kr, den exakta kostnaden får du reda påförst när Invisalign har räknat ut längden av din behandling.</p>
-                            <p class="mb6">Vi strävar efter att ge patienten ett pris såtidigt som möjligt som innefattar alla smådetaljer som krävs påvägen till det vackra leendet, exempelvis med tandblekning eller lite porslin. Tandreglering kan göra mycket men mörka tänder blir inte ljusare och småtänder blir inte större. Kanske behövs lite porslin eller puts av en tand som står ut lite mycket.</p>
-                            <h5 class="text-blue mb1">Finjusteringar</h5>
-                            <p class="mb3">Under behandlingsgången diskuterar vi hur allt känns och om det eventuellt skulle behöva göras någon justering påvägen till det perfekta leendet</p>
-                            <p class="mb1 behand"><a href="bokningsforfragan.php">Boka tid för en kostnadsfri konsultation här</a></p>
-                            <p class="mb3 behand">Vill du läsa mer om invisalign kan du gåin påderas hemsida <a href="https://www.invisalign.se/">www.invisalign.se</a></p>
+
+                            <h5 class="text-blue mb1">Air Flow</h5>
+                            <p class="mb6">Att den naturliga vita färgen på tänderna ändras till en mörkare färg är ett vanligt problem hos de flesta människor och kan göra att det blir svårt att le. Tandhygienisten tillsammans med en maskin som kallas ”airflow” tar enkelt och snabbt bort missfärgningarna åt dig.</p>
+                    
+                            <h5 class="text-blue mb1">Varför uppkommer missfärgningar?</h5>
+                            <p class="mb3">Att tänderna ändrar färg eller får missfärgningar kan ske på grund av flera olika faktorer.<p>
+                            <p class="mb6">Det kan komma från exempelvis: <br><br>
+                               Tobak (Snus eller cigaretter)<br>
+                                Kryddig mat (Curry eller gurkmeja)<br>
+                                Färgstarka dryck (Vin eller kaffe)
+                                <br><br>Då det finns olika anledningar till varför man får missfärgningar är det bra att utreda varför just du får dina. Vi hjälper dig hitta anledningen och informerar hur du kan motverka de i framtiden.
+                    </p>
+
+                    <h5 class="text-blue mb1">Behandlingen</h5>
+                            <p class="mb3">Airflow används när man har missfärgningar som inte går att borsta bort med din vanliga tandborste eller eltandborste. Maskinen är gjord för att ta bort de med hjälp av kalciumkarbonat, vatten och luft. Det som skiljer sig från de andra maskinerna mot missfärgningar är hur stark och skonsam den är.</p>
+                            <p class="mb3">Då våra patienter uppskattat denna behandling så mycket har vi valt att göra Airflow till en egen separat behandling för de som önskar att endast få bort missfärgningarna. </p>
+                            <p class="mb3">Behandlingen tar ca 10-30 minuter beroende på hur mycket man har.</p>
+
+                            <p class="mb3">Observera att det inte ingår tandstensborttagning när du bokar en tid för airflow.</p>
+                            <p class="mb3 behand"><a href="bokningsforfragan.php">Boka din tid här</a></p>
+
+                            </p>
                         </div>
                     </div>
                 </div>
             </section>  
-            <!-- Before After start -->
-            <section class="bg-light-gradeint">
-                <div class="container">                   
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="tandimplantat ba-slider">
-                                <img src="imgs/behandlingar/tandimplantat-after.jpg" alt="">
-                                <div class="resize"> <img src="imgs/behandlingar/tandimplantat-before.png" alt=""> </div>
-                                <span class="handle"></span>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="slider-bottom-text">
-                                    <p>Före- och efterbild tagen på patient från Family Dental Care Kungsholmen.</p>
-                                    <p>Luckor på båda sidor ersätts med implantat.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Before After ends --> 
+        
             <!--Video-->
             <section class="testimonial-video">
                 <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">

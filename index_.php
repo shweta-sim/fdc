@@ -56,9 +56,14 @@
                   <li><i class="fas fa-map-marker-alt"></i>Franzéngatan 18, 112 17<br>
                     Stockholm</li>
                   <li><i class="fas fa-phone-alt"></i>08 – 50 08 08 50</li>
-                  <li class="overflowEllipsis"><i class="fas fa-envelope"></i><a href="mailto:info@familydentalcare.se">info@familydentalcare.se</a></li>
+                  <li><i class="fas fa-envelope"></i><a href="mailto:info@familydentalcare.se">info@familydentalcare.se</a></li>
                 </ul>
               </div>
+              <video width="100%" height="100%" autoplay loop autobuffer muted playsinline>
+                <source src="videos/kungsholmen.mp4">
+                <source src="videos/kungsholmen.webm">
+                <source src="videos/kungsholmen.ogv">
+              </video>
             </div>
           </div>
           <div class="col-md-12 col-lg-4 p0">
@@ -71,9 +76,14 @@
                   <li><i class="fas fa-map-marker-alt"></i>Franzéngatan 67, 112 15<br>
                     Stockholm</li>
                   <li><i class="fas fa-phone-alt"></i>08 – 30 50 35</li>
-                  <li class="overflowEllipsis"><i class="fas fa-envelope"></i><a href="mailto:specialistkliniken@familydentalcare.se">specialistkliniken@familydentalcare.se</a></li>
+                  <li><i class="fas fa-envelope"></i><a href="mailto:specialistkliniken@familydentalcare.se">specialistkliniken@familydentalcare.se</a></li>
                 </ul>
               </div>
+              <video width="100%" height="100%" autoplay loop autobuffer muted playsinline>
+                <source src="videos/specialistkliniken.mp4">
+                <source src="videos/specialistkliniken.webm">
+                <source src="videos/specialistkliniken.ogv">
+              </video>
             </div>
           </div>
           <div class="col-md-12 col-lg-4 p0">
@@ -86,7 +96,7 @@
                   <li><i class="fas fa-map-marker-alt"></i>Medborgargatan 17, 693 30<br>
                     Degerfors</li>
                   <li><i class="fas fa-phone-alt"></i>0586-424 24</li>
-                  <li class="overflowEllipsis"><i class="fas fa-envelope"></i><a href="mailto:degerfors@familydentalcare.se">degerfors@familydentalcare.se</a></li>
+                  <li><i class="fas fa-envelope"></i><a href="mailto:degerfors@familydentalcare.se">degerfors@familydentalcare.se</a></li>
                 </ul>
               </div>
 
@@ -253,94 +263,6 @@
       </div>
     </section>
     <!-- Services ends -->
-    <!-- Personal start -->
-    <section class="personal">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-lg-6 col-xl-5 mb6-md">
-            <h1 class="text-bold mb3">Våra Medarbetare</h1>
-            <!-- <h5 class="text-blue mb2">Till höger kan du läsa mer om några av de behandlingar vi kan erbjuda dig.</h5> -->
-            <a href="personal.php" class="btn">Träffa vårt team</a>
-          </div>
-          <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-2">
-            <div class="personal-swiper shadow">
-              <div class="swiper-container swiper-personal">
-                <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-alex.jpg" class="img-fluid shadow"></div>
-                    <h4>Alex</h4>
-                    <h6>Leg. Tandläkare, Klinikchef</h6>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-markus.jpg" class="img-fluid shadow"></div>
-                    <h4>Markus</h4>
-                    <h6>Leg.Tandhygienist</h6>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-ada.jpg" class="img-fluid shadow"></div>
-                    <h4>Ada</h4>
-                    <h6>Leg. Tandläkare</h6>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-lumin.jpg" class="img-fluid shadow"></div>
-                    <h4>Lumin</h4>
-                    <h6>Tandsköterska</h6>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-rebecca.jpg" class="img-fluid shadow"></div>
-                    <h4>Rebecca</h4>
-                    <h6>Tandsköterska</h6>
-                  </div>
-
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-erna.jpg" class="img-fluid shadow"></div>
-                    <h4>Erna</h4>
-                    <h6>Tandsköterska</h6>
-                  </div>
-
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-sia.jpg" class="img-fluid shadow"></div>
-                    <h4>Sia</h4>
-                    <h6>Leg, Tandläkare</h6>
-                  </div>
-
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img_felicia.png" class="img-fluid shadow"></div>
-                    <h4>Felicia</h4>
-                    <h6>Receptionist</h6>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img_hares.jpg" class="img-fluid shadow"></div>
-                    <h4>Hares</h4>
-                    <h6>Leg. Tandläkare</h6>
-                  </div>
-
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img_ahline.jpg" class="img-fluid shadow"></div>
-                    <h4>Ahline</h4>
-                    <h6>Tandsköterska</h6>
-                  </div>
-
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-linnea.jpg" class="img-fluid shadow"></div>
-                    <h4>Linnéa</h4>
-                    <h6>Receptionist</h6>
-                  </div>
-
-                  <div class="swiper-slide">
-                    <div class="img mb3"><img src="imgs/img-jelena.jpg" class="img-fluid shadow"></div>
-                    <h4>Jelena</h4>
-                    <h6>Tandsköterska</h6>
-                  </div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Personal ends -->
     <!-- Before After start -->
     <section class="before-after bg-light">
       <div class="container">
@@ -361,7 +283,86 @@
       </div>
     </section>
     <!-- Before After ends -->
-    
+    <!-- Personal start -->
+    <section class="personal">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-6 col-xl-5 mb6-md">
+            <h1 class="text-bold mb3">Personal</h1>
+            <h5 class="text-blue mb2">Till höger kan du läsa mer om några av de behandlingar vi kan erbjuda dig.</h5>
+            <a href="personal.php" class="btn">Träffa vårt team</a>
+          </div>
+          <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-2">
+            <div class="personal-swiper shadow">
+              <div class="swiper-container swiper-personal">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-alex.jpg" class="img-fluid shadow"></div>
+                    <h4>Alex</h4>
+                    <h6>Leg. Tandläkare, Klinikchef</h6>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-markus.jpg" class="img-fluid shadow"></div>
+                    <h4>Markus</h4>
+                    <h6>Leg.Tandhygienist</h6>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-angelica.jpg" class="img-fluid shadow"></div>
+                    <h4>Angelica</h4>
+                    <h6>Leg. Tandläkare</h6>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-ada.jpg" class="img-fluid shadow"></div>
+                    <h4>Ada</h4>
+                    <h6>Leg. Tandläkare</h6>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-lumin.jpg" class="img-fluid shadow"></div>
+                    <h4>Lumin</h4>
+                    <h6>Tandsköterska</h6>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-rebecca.jpg" class="img-fluid shadow"></div>
+                    <h4>Rebecca</h4>
+                    <h6>Tandsköterska</h6>
+                  </div>
+
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-rebecca.jpg" class="img-fluid shadow"></div>
+                    <h4>Erna</h4>
+                    <h6>Tandsköterska</h6>
+                  </div>
+
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-rebecca.jpg" class="img-fluid shadow"></div>
+                    <h4>Sia</h4>
+                    <h6>Leg, Tandläkare</h6>
+                  </div>
+
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img_felicia.png" class="img-fluid shadow"></div>
+                    <h4>Felicia</h4>
+                    <h6>Receptionist</h6>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img_hares.jpg" class="img-fluid shadow"></div>
+                    <h4>Hares</h4>
+                    <h6>Leg. Tandläkare</h6>
+                  </div>
+
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img_ahline.jpg" class="img-fluid shadow"></div>
+                    <h4>Ahline</h4>
+                    <h6>Tandsköterska</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Personal ends -->
     <!-- Testimonials start -->
     <section class="testimonials">
       <div class="container-fluid">
@@ -373,30 +374,39 @@
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/001.png" alt="image"> </div>
                 </div>
+
               </div>
               <!-- item end -->
-
               <!-- item start -->
               <div class="wmg-item">
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/002.png" alt="image"> </div>
                 </div>
+
               </div>
               <!-- item end -->
+              <!-- item start -->
+              <div class="wmg-item">
+                <div class="wmg-thumbnail">
+                  <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/003.png" alt="image"> </div>
+                </div>
 
+              </div>
+              <!-- item end -->
               <!-- item start -->
               <div class="wmg-item">
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/004.png" alt="image"> </div>
                 </div>
+
               </div>
               <!-- item end -->
-
               <!-- item start -->
               <div class="wmg-item">
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/005.png" alt="image"> </div>
                 </div>
+
               </div>
               <!-- item end -->
 
@@ -405,14 +415,15 @@
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/006.png" alt="image"> </div>
                 </div>
+
               </div>
               <!-- item end -->
-
               <!-- item start -->
               <div class="wmg-item">
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/007.png" alt="image"> </div>
                 </div>
+
               </div>
               <!-- item end -->
 
@@ -421,49 +432,17 @@
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/008.png" alt="image"> </div>
                 </div>
+
               </div>
               <!-- item end -->
-
               <!-- item start -->
               <div class="wmg-item">
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/009.png" alt="image"> </div>
                 </div>
+
               </div>
               <!-- item end -->
-
-              <!-- item start -->
-              <div class="wmg-item">
-                <div class="wmg-thumbnail">
-                  <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/010.png" alt="image"> </div>
-                </div>
-              </div>
-              <!-- item end -->
-
-              <!-- item start -->
-              <div class="wmg-item">
-                <div class="wmg-thumbnail">
-                  <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/011.png" alt="image"> </div>
-                </div>
-              </div>
-              <!-- item end -->
-
-              <!-- item start -->
-              <div class="wmg-item">
-                <div class="wmg-thumbnail">
-                  <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/012.png" alt="image"> </div>
-                </div>
-              </div>
-              <!-- item end -->
-
-              <!-- item start -->
-              <div class="wmg-item">
-                <div class="wmg-thumbnail">
-                  <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/013.png" alt="image"> </div>
-                </div>
-              </div>
-              <!-- item end -->
-
             </div>
           </div>
         </div>
@@ -574,13 +553,7 @@
       autoplay: {
         delay: 2500,
         disableOnInteraction: false,
-      },
-      breakpoints:{
-        500: {
-          spaceBetween: 0
-        }
       }
-
     });
 
     var swiper = new Swiper('.swiper-personal', {

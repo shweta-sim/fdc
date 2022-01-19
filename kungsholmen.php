@@ -52,7 +52,7 @@
                     </div>
                     <div class="col-md-12 offset-md-0 col-lg-6 offset-lg-1 col-xl-7 offset-xl-1 order-lg-last order-first mb6-md">
                         <h5 class="text-blue mb1-5">Välkommen till Family Dental Care <br> Kungsholmen!</h5>
-                        <p class="mb3">På vår klinik vill vi erbjuda vuxentandvård av högsta kvalitet i en modern och kundinriktad miljö. Vi ersätter tillgänglighet, kompetens samt respekt för individen. </p>
+                        <p class="mb3">På Famili Dental Care erbjuder vi vuxentandvård av högsta kvalitet i en modern och kundinriktad miljö. Vi värdesätter tillgänglighet, kompetens samt respekt för individen.</p>
                         <p class="mb5">Hos oss besitter personalen mångårig erfarenhet från både offentlig och privat tandvård. Denna klinik är den första som företaget öppnade 2012. </p>
                         <div class="contact-details">
                             <ul>
@@ -84,41 +84,43 @@
                         <div class="personal-swiper shadow">
                             <div class="swiper-container swiper-personal">
                                 <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img-alex.jpg" class="img-fluid shadow"></div>
-                                        <h4>Alex</h4>
-                                        <h6>Leg. Tandläkare, Klinikchef</h6>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img-angelica.jpg" class="img-fluid shadow"></div>
-                                        <h4>Angelica</h4>
+                                <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-sia.jpg" class="img-fluid shadow"></div>
+                                        <h4>Sia</h4>
                                         <h6>Leg. Tandläkare</h6>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img-ada.jpg" class="img-fluid shadow"></div>
-                                        <h4>Ada</h4>
-                                        <h6>Leg. Tandläkare</h6>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img_felicia.png" class="img-fluid shadow"></div>
-                                        <h4>Felicia</h4>
-                                        <h6>Receptionist</h6>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img_natali.png" class="img-fluid shadow"></div>
-                                        <h4>Natali</h4>
-                                        <h6>Tandsköterska</h6>
-                                    </div>
+
                                     <div class="swiper-slide">
                                         <div class="img mb3"><img src="imgs/img-rebecca.jpg" class="img-fluid shadow"></div>
                                         <h4>Rebecca</h4>
                                         <h6>Tandsköterska</h6>
                                     </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-markus.jpg" class="img-fluid shadow"></div>
+                                        <h4>Markus</h4>
+                                        <h6>Leg.Tandhygienist</h6>
+                                    </div>
+
                                     <div class="swiper-slide">
                                         <div class="img mb3"><img src="imgs/img-lumin.jpg" class="img-fluid shadow"></div>
                                         <h4>Lumin</h4>
                                         <h6>Tandsköterska</h6>
                                     </div>
+                                    
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-alex.jpg" class="img-fluid shadow"></div>
+                                        <h4>Alex</h4>
+                                        <h6>Leg. Tandläkare, Klinikchef</h6>
+                                    </div>
+                           
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img_felicia.png" class="img-fluid shadow"></div>
+                                        <h4>Felicia</h4>
+                                        <h6>Receptionist</h6>
+                                    </div>
+                                   
+                              
                                 </div>
                             </div>
                         </div>

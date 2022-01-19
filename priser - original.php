@@ -44,7 +44,7 @@
         <div class="row">
           <div class="col-md-12 col-lg-5 col-xl-4 mb3-md">
             <div class="booking shadow">
-              <h5 class="text-bold mb2">Skicka en Bokningsförfrågan</h5>
+              <h5 class="text-bold mb2">Har du några frågor? Fråga oss!</h5>
               <form class="booking-form" onsubmit="return validateForm()" id="enquiryForm" method="POST" action="mailer.php">
                 <div class="row">
                   <div class="col-sm-12 cols">

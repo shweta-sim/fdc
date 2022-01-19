@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=yes"/>
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Family Dental Care | Rotbehandling</title>
+        <title>Family Dental Care | Blekning</title>
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="imgs/favicon.png" type="image/png">
@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Rotbehandling<span>Rotbehandling</span></h1>
+                        <h1>Blekning<span>Blekning</span></h1>
                     </div>
                 </div>
             </div>
@@ -77,11 +77,10 @@
                                         </li>
                                     </a>
 
-                                   <a href="blekning.php">
-                                        <li>Blekning 
+                                    <a href="blekning.php">
+                                        <li class="left-link-active">Blekning 
                                             <span>
-                                                <img src="imgs/behandlingar/icon_blekning.png" class="link-icon-show" alt="">
-                                                <img src="imgs/behandlingar/icon_blekning_white.png" class="link-icon-hidden" alt="">
+                                                <img src="imgs/behandlingar/icon_blekning_white.png" alt="">
                                             </span>
                                         </li>
                                     </a>
@@ -94,10 +93,12 @@
                                             </span>
                                         </li>
                                     </a>
+
                                     <a href="rotbehandling.php">
-                                        <li class="left-link-active">Rotbehandling 
+                                        <li>Rotbehandling 
                                             <span>
-                                                <img src="imgs/behandlingar/icon_rotbehandling_white.png" alt="">
+                                                <img src="imgs/behandlingar/icon_rotbehandling.png" class="link-icon-show" alt="">
+                                                <img src="imgs/behandlingar/icon_rotbehandling_white.png" class="link-icon-hidden" alt="">
                                             </span>
                                         </li>
                                     </a>
@@ -127,24 +128,30 @@
                             </div>
                         </div>
                         <div class="col-md-6 offset-md-1 col-lg-6 offset-lg-1 col-xl-7 offset-xl-1 order-lg-last mb6-md">
-                            <p class="mb6">I tandens mitt finner man pulpan, tandens nerv. Denna nerv sträcker sig ned genom tandens rötter och ut i käkbenet. Om en tand utav någon anledning dött ut eller om karies nått sig in till pulpan och orsakat inflammation eller infektion behöver nerven tas bort och tanden rotfyllas.
-                                Detta för att man ska kunna behålla tanden utan att infektionen sprider sig vidare.</p>
-                            <div class="mb6 rotbehandling-video content-video">                                
-                                <img src="imgs/behandlingar/icon-youtube.png" onclick="lightboxSecond_open();" alt=""/>
-                            </div>
-                            <h5 class="text-blue mb1">Hur går behandlingen till?</h5>
-                            <p class="mb3">En rotbehandling brukar oftast vara cirka 2timmar. Man börjar med att rengöra tandkronan genom att borra bort den infekterade tandsubstansen. Sedan öppnar man upp tanden för att rengöra rotkanalerna med smala filar och spola rent med bakteriedödande vätska.</p>
-                            <p class="mb3">Tandläkaren har kontroll med hjälp av att ta nya röntgenbilder under behandlingens gång för att vara säker påatt hela rotkanalen blir ren och fri från bakterier.</p>
-                            <p class="mb6">När rengöringen är klar fylls rotkanalen med speciella gummispetsar och rotfyllningscement.</p>
-                            <h5 class="text-blue mb1">Hur mår man efteråt?</h5>
-                            <p class="mb6">Det är vanligt med övergående smärta efter behandlingen men det brukar oftast räcka med vanliga värktabletter för att lindra smärtan. Hjälper inte de vanliga värktabletterna får man kontakta sin tandläkare.</p>
-                            <h5 class="text-blue mb1">Vad är nästa steg?</h5>
-                            <p class="mb6 behand">Efter en rotfyllning måste man reparera den tandsubstans som förvunnit när nerven togs bort. Det finns olika alternativ för detta som diskuteras med din tandläkare. Vanligtvis rekommenderar vi att man sätter dit en porslinskrona med en pelare för att stärka tanden. <a href="kronorochbroar.php">Du kan läsa mer om porslinskronor och broar här.</a></p>
+
+                            <h5 class="text-blue mb1">Blekning</h5>
+                            <p class="mb3">Vitare tänder är något fler och fler personer önskar sig när de kommer till tandläkaren och att få det genom en snabb och smidig process.</p>
+                            <p class="mb3">Därför har vi utrett vilken metod vi tycker är smidigast och samtidigt ger bäst resultat.</p>
+
+                            <p class="mb3">Missfärgningar och tandsten är oftast det främsta problemet till att tänderna upplevs gulare, tandhygienisten hjälper till med detta genom att ta bort tandstenen och missfärgningarna och då får man fram tandens ursprungliga tandfärg. </p>
+
+                            <p class="mb3">Upplevs tänderna fortfarande gula efter ett besök hos tandhygienisten är nästa steg att bleka tänderna.</p>
+                            <p class="mb6">Blekningen är till för de som vill ljusa upp sina tänder ytterligare efter att ha tagit bort missfärgningar hos tandhygienisten.</p>
+                    
+                            <h5 class="text-blue mb1">Hur fungerar det?</h5>
+                            <p class="mb3">Första steget är att du nyligen ska ha varit på en undersökning hos tandläkaren. Detta är för att ha en överblick om hur det ser ut i din mun och om någon behandling eventuellt behövs innan blekningen.</p>
+
+                            <p class="mb3">Nästa steg är avtryck. Vi tar avtryck på din över- och underkäke som vi skickar till ett specialiserat labb där de gör tunna och bekväma blekskenor. </p>
+
+                            <p class="mb3">Sista steget. Du kommer tillbaka efter 1 vecka för att hämta ut dina skenor. Skenorna fyller du med blekningsgel och sover med i x antal nätter tills du nått önskat resultat. All instruktion och information om hur du bleker tänderna får du av din behandlare vid avtrycks eller utlämningstillfället. </p>
+
+                            <p class="mb3 behand">Läs gärna mer om blekningen vi använder på <a href="https://healthysmile.se/" target="_blank">www.healthysmile.se</a></p>
+                            </p>
                         </div>
                     </div>
                 </div>
             </section>  
-
+        
             <!--Video-->
             <section class="testimonial-video">
                 <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
@@ -185,7 +192,7 @@
         </div>
         <div id="lightSecond">
             <a class="boxclose" id="boxSecondClose" onclick="lightbox_close();">Close | X</a>
-           <iframe width="800" height="400" src="https://www.youtube.com/embed/AATnG9BdIMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="800" height="560" src="https://www.youtube.com/embed/3qYcpkWzJGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div id="fade" onClick="lightbox_close();"></div>        
         <!-- Video Popup Box ends-->

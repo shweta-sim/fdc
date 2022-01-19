@@ -35,7 +35,8 @@
                 </div>
             </div>
         </div>
-    </section>
+</section>
+
 
     <!-- Main Body start -->
     <div class="main-body">
@@ -48,17 +49,19 @@
                         </div>
 
                         <h5 class="text-blue mb1"><br>Avbokning och ombokning</h5>
-                        <p class="mb3">Din tandläkartid kan avbokas via mail eller telefon till den klinik du har tid hos.
-                            För av- och ombokning gäller 24 timmar innan din bokade behandling, annars utgår 1000 kr per timme bokad.</p>
+
+                        <p class="mb3 behand">Var god av- eller omboka din tid senast 24 timmar innan ditt bokade besök, av- eller ombokning inom 24 timmar debiteras med 1 000 kr per timme oavsett anledning. Detta faktureras via Payzmart med tillhörande kreditprövning</p>
                         <p class="mb3">Eventuella kostnadsfria erbjudanden faller under samma bokningsvillkor och är således endast kostnadsfria om patienten kommer på sin tid. Notera att avbokningsregeln gäller oavsett anledning. Ej korrekt avbokad tid debiteras per automatik.</p>
                         <p class="mb3">Ovanstående regler finns bland annat till för att vi ska kunna erbjuda någon annan patient akut vård istället för att neka på grund av full beläggning och vi förutsätter att detta är underförstått.</p>
-                        <p class="mb3">Tänk på att SMS-påminnelsen är en extra tjänst. Ibland kan någon operatör ha systemfel, vilket gör att SMS:et ej kommer fram. Därför måste du själv ha koll på din tid!</p>
+                        <p class="mb3">Tänk på att SMS-påminnelsen är en extra tjänst. Ibland kan någon operatör ha systemfel, vilket gör att SMS:et ej kommer fram. Därför måste du själv ha koll på din tid!!</p>
                     </div>
                 </div>
             </div>
     </div>
     </section>
     <!-- Main Body ends -->
+
+
 
     <!-- Footer start -->
     <?php include("footer.php"); ?>

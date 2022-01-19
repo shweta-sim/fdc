@@ -52,9 +52,14 @@
                     </div>
                     <div class="col-md-12 offset-md-0 col-lg-6 offset-lg-1 col-xl-7 offset-xl-1 order-lg-last order-first mb6-md">
                         <h5 class="text-blue mb1-5">Välkommen till Family Dental Care <br> Degerfors!</h5>
-                        <p class="mb5">När du kommer till oss första gången gör vi en noggrann undersökning av dina tänder och din munhåla. Vi utför både allmän- och specialisttandvård.</p>
-                        <h5 class="text-blue mb1-5">Ta hand om dina tänder</h5>
-                        <p class="mb5">Tänderna är gjorda för att hålla länge,men du kan göra mycket själv för dina tänder. Borsta såklart, massera tandköttet, äta rätt, dricka vatten, tandtråd osv…vi ger dig den självhjälp som du behöver för att ta hand om dina tänder </p>
+                        <p class="mb3">Vår charmiga klinik i Degerfors ligger centralt på orten och erbjuder både allmän- och specialisttandvård.<p>
+
+                        <p class="mb3">Första gången du kommer till oss genomför vi en grundlig undersökning och kommer överens om en plan för dina tänder.</p>
+
+                        <p class="mb3">Vi ger dig kunskapen du behöver för att ta hand om din mun och dina tänder på bästa sätt!</p>
+
+                        <p class="mb5">Varmt välkommen till oss!</p>
+
                         <div class="contact-details">
                             <ul>
                                 <li class="mb6"><i class="fas fa-map-marker-alt"></i>Medborgargatan 17, 693 30<br>
@@ -64,9 +69,9 @@
                                 <li class="mb6"><i class="fas fa-envelope"></i><a href="mailto:degerfors@familydentalcare.se">degerfors@familydentalcare.se</a></li>
                                 <h5 class="text-blue mb1">Öppettider</h5>
 
-                                <li class="mb6"><i class="far fa-clock"></i> Måndag-Torsdag: 7.45 - 17.30<br>
-                                    Fredag: 7.45 - 13.30<br>
-                                    Lunch: 12.30 - 13.20 </li>
+                                <li class="mb6"><i class="far fa-clock"></i> Mån- Tor: 8-18<br>
+                Fre: 8-15<br>
+                Lunchstängt: 12.30-13.20</li>
                             </ul>
                         </div>
                     </div>
@@ -78,7 +83,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 col-xl-5 mb6-md">
-                        <h1 class="text-bold mb3">Personal på Degerfors</h1>
+                        <h1 class="text-bold mb3">Personal i Degerfors</h1>
                         <!-- <h5 class="text-blue mb2">Till höger kan du läsa mer om några av de behandlingar vi kan erbjuda dig.</h5>-->
                         <a href="personal.php" class="btn">Träffa vårt team</a>
                     </div>
@@ -86,26 +91,31 @@
                         <div class="personal-swiper shadow">
                             <div class="swiper-container swiper-personal">
                                 <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img_sandra.jpg" class="img-fluid shadow"></div>
-                                        <h4>Sandra</h4>
-                                        <h6>Receptionist</h6>
-                                    </div>
+
                                     <div class="swiper-slide">
                                         <div class="img mb3"><img src="imgs/img_hares.jpg" class="img-fluid shadow"></div>
                                         <h4>Hares</h4>
                                         <h6>Leg. Tandläkare</h6>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="img mb3"><img src="imgs/img_rand.jpg" class="img-fluid shadow"></div>
-                                        <h4>Rand</h4>
-                                        <h6>Leg. Tandläkare</h6>
-                                    </div>
+
                                     <div class="swiper-slide">
                                         <div class="img mb3"><img src="imgs/img_ahline.jpg" class="img-fluid shadow"></div>
                                         <h4>Ahline</h4>
                                         <h6>Tandsköterska</h6>
                                     </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-jelena.jpg" class="img-fluid shadow"></div>
+                                        <h4>Jelena</h4>
+                                        <h6>Tandsköterska</h6>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-linnea.jpg" class="img-fluid shadow"></div>
+                                        <h4>Linnéa</h4>
+                                        <h6>Receptionist</h6>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>

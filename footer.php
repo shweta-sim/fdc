@@ -37,9 +37,9 @@
                 <li><i class="fas fa-phone-alt"></i>0586-424 24</li>
                 <li><i class="fas fa-envelope"></i><a href="mailto:degerfors@familydentalcare.se">degerfors@familydentalcare.se</a></li>
                 <li><i class="far fa-clock"></i>
-                  Vardagar: 7.45 – 16.45<br>
-                  Lunchstängt: 12.30 - 13.20 <br>
-                  (Mån - Fre)
+                Mån- Tor: 8-18<br>
+                Fre: 8-15<br>
+                Lunchstängt: 12.30-13.20
                 </li>
               </ul>
             </div>
@@ -52,9 +52,11 @@
             <li><a href="kronorochbroar.php">Kronor och broar</a></li>
             <li><a href="tandimplantat.php">Tandimplantat</a></li>
             <li><a href="tandhygienist.php">Tandhygienist</a></li>
+            <li><a href="blekning.php">Blekning</a></li>
+            <li><a href="air-flow.php">Air Flow</a></li>
             <li><a href="rotbehandling.php">Rotbehandling</a></li>
-            <li><a href="invisalign.php">Invisalign</a></li>
-            <li><a href="fillers.php">Fillers</a></li>
+            <li><a href="osynlig-tandställning.php">Osynlig tandställning</a></li>
+            <li><a href="fillers.php">Fillers och rynkbehandling</a></li>
           </ul>
         </div>
       </div>
@@ -64,18 +66,19 @@
         <div class="col-md-9 footer-left mb6-xs">
           <ul class="footer-nav">
             <li><a href="index.php">Hem</a></li>
-            <li><a href="personal.php">Personal</a></li>
+            <li><a href="bokningsforfragan.php">Boka tid</a></li>
+            <li><a href="erbjudanden.php">Erbjudanden</a></li>
+            <li><a href="personal.php">Medarbetare</a></li>
             <li><a href="bilder.php">Bilder</a></li>
             <li><a href="priser.php">Priser</a></li>
-            <li><a href="bokningsforfragan.php">Boka tid</a></li>
             <li><a href="integritetspolicy.php">Integritetspolicy</a></li>
-            <li><a href="http://jobs.familydental.se/" target="_blank">Jobba hos oss</a></li>
+            <li><a href="http://jobs.familydental.se/" target="_blank">Karriär</a></li>
+            <li><a href="skicka-remiss.php">Skicka remiss</a></li>
           </ul>
         </div>
         <div class="col-md-3 footer-right">
           <ul class="social-links">
             <li><a href="https://www.facebook.com/familydentalcareswe/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-            <li><a href="https://twitter.com/familydentalc" target="_blank"><i class="fab fa-twitter"></i></a></li>
             <li><a href="https://www.instagram.com/familidentalcare/" target="_blank"><i class="fab fa-instagram"></i></a></li>
             <li><a href="#top"><i class="fas fa-arrow-up"></i></a></li>
           </ul>
@@ -87,7 +90,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 d-flex align-items-center">
-          <div class="copyright mb2-xs">All rights reserved 2019 &copy; Family Dental Care</div>
+          <div class="copyright mb2-xs">All rights reserved 2021 &copy; Family Dental Care</div>
           <div class="poweredby ml-auto">Website Designed & Developed By: <a href="http://purplecherrytechnologies.com/" target="_blank">Purple Cherry Technologies</a>
           </div>
         </div>
