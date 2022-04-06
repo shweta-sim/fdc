@@ -116,6 +116,12 @@
                                         <h6>Receptionist</h6>
                                     </div>
 
+                                    <div class="swiper-slide">
+                                        <div class="img mb3"><img src="imgs/img-masaru.jpg" class="img-fluid shadow"></div>
+                                        <h4>Masaru</h4>
+                                        <h6>Leg. Tandläkare</h6>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>

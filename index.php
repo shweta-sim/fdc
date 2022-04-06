@@ -333,6 +333,12 @@
                     <h6>Tandsköterska</h6>
                   </div>
 
+                  <div class="swiper-slide">
+                    <div class="img mb3"><img src="imgs/img-masaru.jpg" class="img-fluid shadow"></div>
+                    <h4>Masaru</h4>
+                    <h6>Leg. Tandläkare</h6>
+                  </div>
+
                 </div>
               </div>
             </div>
@@ -460,6 +466,14 @@
               <div class="wmg-item">
                 <div class="wmg-thumbnail">
                   <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/013.png" alt="image"> </div>
+                </div>
+              </div>
+              <!-- item end -->
+
+              <!-- item start -->
+              <div class="wmg-item">
+                <div class="wmg-thumbnail">
+                  <div class="wmg-thumbnail-content"> <img src="imgs/testimonials/014.png" alt="image"> </div>
                 </div>
               </div>
               <!-- item end -->

@@ -117,7 +117,7 @@
                         </ul>
                       </div>
                       <h1 class="price">
-                        <span>SEK</span>895
+                        <span>SEK</span>995
                       </h1>
                     </div>
 
@@ -129,7 +129,7 @@
                         </ul>
                       </div>
                       <h1 class="price">
-                        <span>SEK</span>450
+                        <span>SEK</span>590
                       </h1>
                     </div>
                     
@@ -176,7 +176,7 @@
                       </ul>
                     </div>
                     <h1 class="price">
-                      <span>Från SEK</span>1.580 
+                      <span>Från SEK</span>1.600
                     </h1>
                   </div>
                   <div class="display-flex">

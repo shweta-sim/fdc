@@ -245,6 +245,22 @@
           </div>
         </div>
 
+        <div class="row team-item">
+          <div class="col-md-4 col-lg-5 col-xl-4">
+            <div class="personal-swiper shadow animated fadeInLeft delay-3s">
+              <div class="swiper-container team">
+                <div class="img mb3"><img src="imgs/img-masaru.jpg" class="img-fluid shadow"></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6 offset-lg-1 offset-md-1 col-xl-5 offset-xl-1 mb4-md personal-description animated fadeInRight delay-3s">
+            <h4 class="text-bold mb1">Masaru</h4>
+            <h6 class="text-blue mb4">Leg. Tandläkare</h6>
+            <p class="mb2">Masaru är vår nyaste tandläkare i Degerfors och kom hit 2022 efter att ha arbetat På Folktandvården i Skellefteå och Kramfors.</p>
+            <p class="mb2">Han gick sin utbildning på Karolinska Institutet i Stockholm och sprider mycket positivitet omkring sig till både patienter och medarbetare. Masaru tycker det roligaste med yrket är att göra patienter glada och har på kort tid blivit mycket populär hos våra patienter.</p>
+          </div>
+        </div>
+
       </div>
     </section>
   </div>

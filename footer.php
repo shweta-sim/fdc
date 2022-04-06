@@ -74,6 +74,7 @@
             <li><a href="integritetspolicy.php">Integritetspolicy</a></li>
             <li><a href="http://jobs.familydental.se/" target="_blank">Karriär</a></li>
             <li><a href="skicka-remiss.php">Skicka remiss</a></li>
+            <li><a href="garanti.php">Garanti</a></li>
           </ul>
         </div>
         <div class="col-md-3 footer-right">
