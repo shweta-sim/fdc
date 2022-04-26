@@ -52,6 +52,7 @@
               <a class="dropdown-item" href="rotbehandling.php">Rotbehandling</a>
               <a class="dropdown-item" href="osynlig-tandställning.php">Osynlig tandställning</a>
               <a class="dropdown-item" href="fillers.php">Fillers och rynkbehandling</a>
+              <a class="dropdown-item" href="garanti.php">Garanti</a>
             </div>
           </li>
           <li class="nav-item"><a class="nav-link" href="erbjudanden.php">Erbjudanden</a></li>

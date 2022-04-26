@@ -57,6 +57,7 @@
             <li><a href="rotbehandling.php">Rotbehandling</a></li>
             <li><a href="osynlig-tandställning.php">Osynlig tandställning</a></li>
             <li><a href="fillers.php">Fillers och rynkbehandling</a></li>
+            <li><a href="garanti.php">Garanti</a></li>
           </ul>
         </div>
       </div>

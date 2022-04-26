@@ -58,12 +58,12 @@
 
 <p><strong>Garantin gäller inte</strong></p><br>
 <ul class="list">
-<li>om protes utförts i immediatteknik,</li>
-<li>vid behov av rebasering av plattprotetik,</li>
-<li>om konstruktion är avsedd endast för tillfälligt bruk,</li>
-<li>om patienten kan lastas för behovet av omgörning,</li>
-<li>om konstruktion utsatts för yttre våld.</li>
-<li>för riskpatienter med underliggande sjukdomar</li>
+<li>Om protes utförts i immediatteknik</li>
+<li>Vid behov av rebasering av plattprotetik</li>
+<li>Om konstruktion är avsedd endast för tillfälligt bruk</li>
+<li>Om patienten kan lastas för behovet av omgörning</li>
+<li>Om konstruktion utsatts för yttre våld</li>
+<li>För riskpatienter med underliggande sjukdomar</li>
 </ul><br><br><br>
 
 <h5 class="text-blue mb1">Garanti</h5>

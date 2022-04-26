@@ -47,7 +47,10 @@
         <div class="col-md-10 personal-description animated fadeInRight delay-3s">
           <h5 class="text-blue mb1">Är du tandläkare? </h5>
           <p class="mb6">Remittera din patient för implantatkirurgi, ortodonti, panoramaröntgen eller CBCT hos oss via vår digitala remitteringstjänst</p>
+          <div class="muntra-referral-widget" muntra_clinic_id="1723"></div>
           <script type="text/javascript" src="https://muntra-dev.github.io/referral-page/index.js"></script>
+          
+
         </div>
       </div>
   </div>
