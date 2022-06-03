@@ -27,7 +27,18 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <!-- <li class="nav-item active"><a class="nav-link" href="index.php">Hem</a></li> -->
-          <li class="nav-item"><a class="nav-link" href="bokningsforfragan.php">Boka tid</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Boka tid
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="bokningsforfragan.php">Boka tid</a>
+              <a class="dropdown-item" href="av-ombokningsvillkor.php">Av/ombokningsvillkor</a>
+            </div>
+          </li>
+          
+          <!-- <li class="nav-item"><a class="nav-link" href="bokningsforfragan.php">Boka tid</a></li> -->
+          
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Välj klinik
